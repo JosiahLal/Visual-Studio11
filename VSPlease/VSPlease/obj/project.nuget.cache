@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtknpAID4zPeOp6zS2IbBNLqJ7BGuTEvbHm6e/49UiwJfneg+UeynCEI9+dchlz18KDVuOIYZr69MGxAhFKMNg==",
+  "success": true,
+  "projectFilePath": "/Users/josiahlal/Desktop/VSPlease/VSPlease/VSPlease.csproj",
+  "expectedPackageFiles": [
+    "/Users/josiahlal/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/josiahlal/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/josiahlal/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
